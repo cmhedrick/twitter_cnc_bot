@@ -1,0 +1,5 @@
+credentials.py
+tweetlist*.txt
+__pycache__/
+env/
+.idea
